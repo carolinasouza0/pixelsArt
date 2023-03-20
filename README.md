@@ -34,10 +34,7 @@ Oi pessoal, deixando aqui nesse repositório o meu código do projeto que consis
 
 ## 3 - Adicione a cor **preta** como a primeira cor da paleta de cores.
 
-<details>
   A primeira cor na paleta criada no requisito 2 deve ser preta. As demais cores podem ser escolhidas livremente. <br />
-
-</details>
 
 ## 4 - Adicione um botão para gerar cores aleatórias para a paleta de cores.
 
