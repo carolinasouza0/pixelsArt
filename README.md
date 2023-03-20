@@ -38,18 +38,11 @@ Oi pessoal, deixando aqui nesse repositório o meu código do projeto que consis
 
 ## 4 - Adicione um botão para gerar cores aleatórias para a paleta de cores.
 
-<details>
-  <summary>A primeira cor da sua paleta deve ser a cor preta, e as outras três cores devem ser geradas aleatoriamente ao clicar no botão.</summary><br />
-
-</details>
+ A primeira cor da sua paleta deve ser a cor preta, e as outras três cores devem ser geradas aleatoriamente ao clicar no botão.<br />
 
 ## 5 - Implemente uma função usando localStorage para que a paleta de cores gerada aleatoriamente seja mantida após recarregar a página.
 
-<details>
-
-  <summary>As cores da paleta de cores que foram geradas aleatoriamente devem ser mantidas após recarregar a página</summary><br />
-
-</details>
+As cores da paleta de cores que foram geradas aleatoriamente devem ser mantidas após recarregar a página.<br />
 
 ## 6 - Adicione à página um quadro contendo 25 pixels.
 
@@ -68,10 +61,7 @@ Oi pessoal, deixando aqui nesse repositório o meu código do projeto que consis
 
 ## 7 - Faça com que cada pixel do quadro tenha largura e altura de 40 pixels e borda preta de 1 pixel de espessura.
 
-<details>
-  <summary>Cada <code>pixel</code> do quadro deve possuir 40px de largura e 40px de altura e uma borda preta sólida de 1px de espessura</summary><br />
-
-</details>
+ Cada <code>pixel</code> do quadro deve possuir 40px de largura e 40px de altura e uma borda preta sólida de 1px de espessura.<br />
 
 ## 8 - Defina a cor preta como cor inicial da paleta de cores
 
@@ -99,24 +89,15 @@ Oi pessoal, deixando aqui nesse repositório o meu código do projeto que consis
 
 ## 10 - Crie uma função que permita preencher um pixel do quadro com a cor selecionada na paleta de cores.
 
-<details>
-  <summary>O <code>pixel</code> do quadro clicado deve ter sua cor alterada para a cor selecionada na paleta de cores</summary><br />
-
-</details>
+ O <code>pixel</code> do quadro clicado deve ter sua cor alterada para a cor selecionada na paleta de cores.<br />
 
 ## 11 - Crie um botão que retorne a cor do quadro para a cor inicial.
 
-<details>
-  <summary>Sua página deve ter um botão que, ao ser clicado, deixe todos os <code>pixels</code> do quadro com a cor branca</summary><br />
-
-</details>
+Sua página deve ter um botão que, ao ser clicado, deixe todos os <code>pixels</code> do quadro com a cor branca.<br />
 
 ## 12 - Crie uma função para salvar e recuperar o seu desenho atual no localStorage
 
-<details>
-  <summary>Os pixels, ao serem clicados, devem ter sua cor e posição salvas no localStorage. Quando recarregar a página, o quadro deve ser recuperado a partir do que foi salvo no localStorage.</summary><br />
-
-</details>
+Os pixels, ao serem clicados, devem ter sua cor e posição salvas no localStorage. Quando recarregar a página, o quadro deve ser recuperado a partir do que foi salvo no localStorage.<br />
 
 # Requisitos Bônus
 
@@ -158,5 +139,4 @@ Oi pessoal, deixando aqui nesse repositório o meu código do projeto que consis
 
 ## 15 - Crie uma função para manter o tamanho novo do board ao recarregar a página.
 
-<details>
-  <summary>O tamanho do board deve ser mantido ao recarregar a página usando localStorage</summary><br />
+O tamanho do board deve ser mantido ao recarregar a página usando localStorage.<br />
