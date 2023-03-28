@@ -1,9 +1,17 @@
 body {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-  background-color: rgb(82, 54, 74);
+  background-image: url('kelli-tungay-Sj0nhVIb4eY-unsplash.jpg');
+  background-size: 100%;
 }
+
+main {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
 h1 {
   font-family: "Russo One", sans-serif;
   display: inline-block;
